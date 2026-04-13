@@ -74,7 +74,7 @@ Let's start up our development environment, use copilot to learn a bit about the
 
 1. Now that we know a bit more about the project, let's actually try running it! In the left sidebar, select the `Run and Debug` tab and then press the **Start Debugging** icon.
 
-   <img width="300" alt="image" src="https://github.com/Apamecha-Insight/skills-getting-started-with-github-copilot/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
+   <img width="300" alt="image" src="https://github.com/Apamecha-Insight/skills-getting-started-with-git\hub-copilot/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
 
 1. We want to see our webpage running in a browser, so let's find the url and port. If it isn't visible, expand the lower panel and select the **Ports** tab.
 
